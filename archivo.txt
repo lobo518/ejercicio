@@ -1,2 +1,3 @@
 Iniciando la programación
 trabajando en altas
+otra funcion en altas
